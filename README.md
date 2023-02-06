@@ -16,7 +16,7 @@ This is the repository for my **College Project**. This is a **Student managemen
 
 ## Getting Started
 1. Clone or download the repository.
-2. Open the [StudManageSys.c]().
+2. Open the [source.c]().
 3. Explore it!
 
 ## Contributing
