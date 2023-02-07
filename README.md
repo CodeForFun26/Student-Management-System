@@ -6,7 +6,7 @@ This is the repository for my **College Project**. This is a **Student managemen
 -  Login Page. 
 - Menu.
 - Add student details. 
-- Console Student detail.
+- Preview Student detail.
 - Add student marks.
 - Calculate student Grade.
 - Count number of student. 
