@@ -16,7 +16,7 @@ This is the repository for my **College Project**. This is a **Student managemen
 
 ## Getting Started
 1. Clone or download the repository.
-2. Open the [source.c]().
+2. Open the [source.c](https://github.com/CodeForFun26/Student-Management-System/blob/main/source.c).
 3. Explore it!
 
 ## Contributing
