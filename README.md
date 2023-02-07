@@ -10,7 +10,7 @@ This is the repository for my **College Project**. This is a **Student managemen
 - Add student marks.
 - Calculate student Grade.
 - Count number of student. 
-- and Exit
+- Exit
 
 ## More to add
 - File handling 
