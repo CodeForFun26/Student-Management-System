@@ -210,5 +210,5 @@ int addStudentGrades(void)
 int countStudents()
 {
     printf("\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb Number Of Students \xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\n");
-    printf("%d Students \n", count);
+    printf("%d Number of students \n", count);
 }
